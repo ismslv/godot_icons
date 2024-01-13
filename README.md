@@ -1,7 +1,5 @@
 ## Godot Engine icons
 
-[https://godotengine.org/]()
-
 <table>
 <tr>
   <td><img src="/app/png/app_full_withback.png" width="256"/></td>
